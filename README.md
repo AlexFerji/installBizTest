@@ -8,3 +8,6 @@
   DB_PASSWORD="Пароль"
   SECRET_KEY="Секретный   ключ"
   ALGORITHM=HS256
+
+
+выполнить миграции БД - alembic upgrade head
