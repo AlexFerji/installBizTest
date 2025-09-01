@@ -1,4 +1,6 @@
 Клонировать репозиторий - https://github.com/AlexFerji/installBizTest.git
+Создать виртуальное окружение
+Версия Python 3.12
 Установить зависимости - pip install -r requirements.txt
 добавить файл .env с данными: 
   DB_HOST=localhost
